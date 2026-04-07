@@ -11,8 +11,8 @@ Whenever you land on `youtube.com/shorts/...` — whether by typing the URL, cli
 1. Open Chrome and go to `chrome://extensions`
 2. Enable **Developer mode** (toggle in the top-right corner)
 3. Click **Load unpacked**
-4. Select the `youtube-shorts-redirector/` folder
-5. The extension is now active — no restart needed
+4. Select the `youtube-shorts-blocker/` folder
+6. The extension is now active — no restart needed
 
 To reload after editing files: click the refresh icon on the extension card at `chrome://extensions`.
 
